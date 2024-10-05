@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ct6gixyv11l6p"]
+
+[ext_resource type="Script" path="res://Scripts/extended_chat_api.gd" id="1_do2w6"]
+
+[node name="ECAPI" type="Node"]
+script = ExtResource("1_do2w6")

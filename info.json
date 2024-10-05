@@ -1,0 +1,13 @@
+{
+	"Format": 1,
+	"Script": "res://Scripts/pd_extendedchat_loader.gd",
+	"Data": {
+		"ID": "pd_extended_chat",
+		"DisplayName": "Extended Chat Mod",
+		"ModVersion": "1.0",
+		"Description": "A Chat mod that adds command functionality to the basic chat systems. Mainly used for other mod developers to add Chat Commands.",
+		"GameVersions": ["0.9.0.0-ex4"],
+		"Author": "NightPotato (potatdev)",
+		"Dependencies": []
+	}
+}
